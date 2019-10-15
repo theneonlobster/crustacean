@@ -1,7 +1,7 @@
 project:
-  machine_name: lobster
-  prefix: BLT
-  human_name: BLTed 10
+  machine_name: eedplatek
+  prefix: TNL
+  human_name: theNeonLobster
   profile:
     name: lightning
   local:
