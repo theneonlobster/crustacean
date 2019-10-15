@@ -10,9 +10,7 @@ project:
 git:
   default_branch: master
   remotes: {}
-  hooks:
-    pre-commit: false
-    commit-msg: false
+  hooks: {}
 deploy:
   tag_source: true
 drush:
