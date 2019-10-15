@@ -1,0 +1,14 @@
+uuid: 817ce80f-ff73-44db-ac0f-2ad205d6e8ed
+name: theNeonLobster
+mail: no-reply@acquia.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

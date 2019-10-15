@@ -1,0 +1,19 @@
+uuid: 673fc624-497b-43d5-9dad-e69ad2e0f35d
+langcode: en
+status: true
+dependencies:
+  module:
+    - layout_builder_st
+    - node
+id: node.layout_builder__translation
+field_name: layout_builder__translation
+entity_type: node
+type: layout_translation
+settings: {  }
+module: layout_builder_st
+locked: true
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

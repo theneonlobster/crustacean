@@ -1,0 +1,14 @@
+uuid: bbd48cd4-0237-45f6-9a94-04770d381a47
+langcode: en
+status: true
+dependencies:
+  module:
+    - lightning_core
+    - search_api
+third_party_settings:
+  lightning_core:
+    internal: true
+id: search_api_task.token
+label: Token
+targetEntityType: search_api_task
+cache: true
