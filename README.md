@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/theneonlobster/crustacean.svg?branch=master)](https://travis-ci.org/theneonlobster/crustacean)
+
 # My Project
 
 A brief description of My Project.
@@ -21,7 +23,7 @@ Search for and replace the following placeholders within this file:
 
 # Getting Started
 
-This project is based on BLT, an open-source project template and tool that enables building, testing, and deploying Drupal installations following Acquia Professional Services best practices. While this is one of many methodologies, it is our recommended methodology. 
+This project is based on BLT, an open-source project template and tool that enables building, testing, and deploying Drupal installations following Acquia Professional Services best practices. While this is one of many methodologies, it is our recommended methodology.
 
 1. Review the [Required / Recommended Skills](https://docs.acquia.com/blt/developer/skills/) for working with a BLT project.
 2. Ensure that your computer meets the minimum installation requirements (and then install the required applications). See the [System Requirements](https://docs.acquia.com/blt/install/).
@@ -112,12 +114,12 @@ If you have an existing database you can use BLT to pull down the database from 
 
 ---
 
-# Resources 
+# Resources
 
 Additional [BLT documentation](https://docs.acquia.com/blt/) may be useful. You may also access a list of BLT commands by running this:
 ```
 $ blt
-``` 
+```
 
 Note the following properties of this project:
 * Primary development branch: #GIT_PRIMARY_DEV_BRANCH
@@ -126,7 +128,7 @@ Note the following properties of this project:
 
 ## Working With a BLT Project
 
-BLT projects are designed to instill software development best practices (including git workflows). 
+BLT projects are designed to instill software development best practices (including git workflows).
 
 Our BLT Developer documentation includes an [example workflow](https://docs.acquia.com/blt/developer/dev-workflow/).
 
